@@ -1,0 +1,67 @@
+
+u	cpp:S1708"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8Şš—î1J$529cbaaa-3979-48d2-bee0-6af6a8c9ba8a
+u	cpp:S1708"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8Şš—î1J$3b4f9d75-84ac-4a30-8570-6666b17d23b0
+u	cpp:S1708"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8Şš—î1J$7291784e-1f71-458e-8732-d74d5b46c948
+	cpp:S1917"NUse either // or /* ... */ comments, but do not mix them (see lines 39 and 8).(Â˜ß×8¹æØ–î1J$fe8c7b36-c20d-41d9-9ca4-66d9e267184f
+|cpp:S139'"6Move this trailing comment on the previous empty line.( çãøÿÿÿÿ8Şš—î1J$fd078de2-e4f2-4fdf-a739-68ffe571a913
+u	cpp:S1708-"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8Şš—î1J$fbe717c2-5eb3-4b8a-a71e-dba4d5a8d9f9
+u	cpp:S1708@"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8Şš—î1J$c46a1c5b-20db-490d-bd2f-570cb4a77f63
+u	cpp:S1708O"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8¯©Ÿ—î1J$9eaac2c6-1b1d-428e-94e4-18ef8cfd5499
+u	cpp:S1708Y"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8ÌŒ§—î1J$788fb0af-7f8a-42fd-83dd-6bac2799cbc5
+u	cpp:S1708e"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8ëÕ©—î1J$265c97ca-d239-497c-b935-886d85b1fe0a
+u	cpp:S1708p"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8æ¨¯—î1J$381de548-1d83-43d5-9186-d55e445c5fba
+u	cpp:S1708{"3Edit this comment to use the C++ format, i.e. "//".(–±Ù8Ä‹³—î1J$45f4a028-e062-40cd-afd8-8bb2322a0509
+cpp:S845I"Icomparison of integers of different signs: 'int' and 'unsigned long long'(äÏ©İÿÿÿÿÿ8Şš—î1J$debb8fe7-0f19-4481-8cc1-01c96097d0bd
+cpp:S100"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(“ûÿÿÿÿ8Şš—î1J$8a615005-54fc-43f2-9d69-f20fb668fa90
+|cpp:S874"6Do not apply "^" bitwise operator to a signed operand.(óˆá²úÿÿÿÿ8Şš—î1J$5f29d0b8-bcad-4514-b365-bf1adc3cf743
+Šcpp:S100"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(”±Ó€8íš—î1J$80a49b62-3997-4781-8d4b-c8d1fa99cc2b
+icpp:S868"(Add parentheses around complex operands.(€Áá„8íš—î1J$9715397b-697e-4c5b-bbf0-d1af77b2c4ee
+kcpp:S867"*"&&" left operand should have type 'bool'.(€Áá„8íš—î1J$cc7511e2-4ab9-4cd1-9b9c-7a2786d663b8
+l	cpp:S5359"*"&&" left operand should have type 'bool'.(€Áá„8íš—î1J$3608eaee-80bf-403b-8d3d-5c224ed715d6
+ecpp:S867"$"!" operand should have type 'bool'.(€Áá„8íš—î1J$df735f77-260e-4b23-be2e-00b6e29ef2c7
+f	cpp:S5359"$"!" operand should have type 'bool'.(€Áá„8íš—î1J$628375d4-269b-484e-b0b1-afa52875df61
+wcpp:S874"6Do not apply "&" bitwise operator to a signed operand.(€Áá„8íš—î1J$2d687f1d-1b30-442f-85aa-64560838fce9
+Šcpp:S100$"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(¥¶œ›8íš—î1J$bce3db50-6303-4358-90ff-a1af1665589a
+zcpp:S811&"4The condition of a while loop should have type bool.(Ç¨ùıÿÿÿÿ8íš—î1J$7253ceb6-d069-45f1-a13c-306da5d51e0c
+}cpp:S874'"7Do not apply "&=" bitwise operator to a signed operand.( çãøÿÿÿÿ8íš—î1J$b56c1518-64cc-472a-9539-8563675d716e
+\	cpp:S1705("Use prefix increment.(ëæûÿÿÿÿÿ8íš—î1J$46466068-ebf8-4598-a2ed-acb0787b866e
+cpp:S1003"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(¼¸ªºûÿÿÿÿ8íš—î1J$deeeab89-0e37-44aa-9376-bf156954b032
+t	cpp:S55234"2Local variables should be initialized immediately.(»ç»“8íš—î1J$36f94e28-b6a9-402f-b6e9-9244ef51e4d8
+xcpp:S8115"7The condition of an if-statement should have type bool.(ùàˆŸ8íš—î1J$1a18b864-60eb-43ae-971e-c42e6f567b6e
+xcpp:S8867"2Refactor this loop so that it is less error-prone.(È„ğÀûÿÿÿÿ8íš—î1J$fcf70d55-6134-4a1b-9b75-23f76793be49
+xcpp:S8117"2The condition of a for loop should have type bool.(È„ğÀûÿÿÿÿ8íš—î1J$739a746d-b8ee-4b8f-b1e6-71a83970517e
+	cpp:S53117"GThere is no loop-counter in this for loop. There should be exactly one.(È„ğÀûÿÿÿÿ8íš—î1J$c1af8507-a18c-43bf-8cd5-eef3fdbf1261
+\	cpp:S17057"Use prefix increment.(È„ğÀûÿÿÿÿ8íš—î1J$9a5b65f9-3c8c-44b1-a80e-63eece2e2426
+Šcpp:S100G"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(‡Õ‘ñ8íš—î1J$4cb288ee-650f-4ef0-b5cf-22eddcf3cafd
+cpp:S864I"9Add parentheses to make the operator precedence explicit.(äÏ©İÿÿÿÿÿ8íš—î1J$9436316f-7b9d-4f03-a0f1-9d41390c5d8e
+\	cpp:S1705I"Use prefix increment.(äÏ©İÿÿÿÿÿ8íš—î1J$b3f13da3-2b1c-4bbc-a4a9-c03694e25cc0
+cpp:S864J"9Add parentheses to make the operator precedence explicit.(Úÿ‹şÿÿÿÿ8íš—î1J$2b0d7eda-dae1-4ab4-97a9-9227a7b9598c
+}cpp:S874J"7Do not apply "<<" bitwise operator to a signed operand.(Úÿ‹şÿÿÿÿ8íš—î1J$70c9f026-d378-4875-8105-a01d71cddd93
+}cpp:S874J"7Do not apply "<<" bitwise operator to a signed operand.(Úÿ‹şÿÿÿÿ8íš—î1J$e65c071b-a307-47e0-b3a8-520b1176d8fe
+cpp:S864J"9Add parentheses to make the operator precedence explicit.(Úÿ‹şÿÿÿÿ8íš—î1J$6008e5db-1476-4201-b685-44bb2d16833d
+}cpp:S874J"7Do not apply "<<" bitwise operator to a signed operand.(Úÿ‹şÿÿÿÿ8íš—î1J$54ee14c4-5a6e-4664-93ef-2aa75f4b7919
+cpp:S864J"9Add parentheses to make the operator precedence explicit.(Úÿ‹şÿÿÿÿ8íš—î1J$cead2a12-2c3d-4663-9102-81678be95598
+}cpp:S874J"7Do not apply "<<" bitwise operator to a signed operand.(Úÿ‹şÿÿÿÿ8íš—î1J$d49772f7-32f1-4252-82ef-c4fa6fd0af11
+cpp:S100U"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(Ü¤îúÿÿÿÿ8ÓşŸ—î1J$916e76ca-99b7-438e-ac1e-1e3b6676017b
+cpp:S109V"]Assign this magic number 0x80808080UL to a well-named variable, and use the variable instead.(Œ¨l8ÓşŸ—î1J$1a4f938e-e7aa-49b2-b840-be5b72d67fa0
+cpp:S109V"]Assign this magic number 0x01010101UL to a well-named variable, and use the variable instead.(Œ¨l8ÓşŸ—î1J$c487d0fd-ca92-44cf-a998-f7d80b6bd67f
+cpp:S100`"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(Ñ¦ïùÿÿÿÿ8”¨—î1J$fe0c37a6-56a9-4348-97f3-43a81babd690
+zcpp:S864a"9Add parentheses to make the operator precedence explicit.(Ô•–ö8”¨—î1J$a78a1168-ac8e-4d8d-995b-ea9b86c70321
+•cpp:S109a"TAssign this magic number 255 to a well-named variable, and use the variable instead.(Ô•–ö8”¨—î1J$e442085e-5f24-4e7b-9f52-1ecd4c88bf2c
+Šcpp:S100l"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(ÀãÖÎ8¦İª—î1J$06645663-04a1-4a53-9212-a551715bc5b7
+cpp:S109m"]Assign this magic number 0x80808080UL to a well-named variable, and use the variable instead.(ë§Àš8¦İª—î1J$aeca83d1-da4d-4a24-80f6-a648cc231680
+zcpp:S864m"9Add parentheses to make the operator precedence explicit.(ë§Àš8¦İª—î1J$f44a9b13-debb-482a-b388-c4e39cd8bf1a
+cpp:S109m"]Assign this magic number 0x7f7f7f7fUL to a well-named variable, and use the variable instead.(ë§Àš8¦İª—î1J$3dbb134a-f188-4529-95e4-8f86f7aa625c
+Šcpp:S100w"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(­Ëß8´ƒ°—î1J$043a042c-24db-4567-b0b5-c16e968d10db
+cpp:S864x"9Add parentheses to make the operator precedence explicit.(ÙÖØ½ÿÿÿÿÿ8´ƒ°—î1J$181a8f3c-651d-4c41-a922-26d6c981b162
+cpp:S864x"9Add parentheses to make the operator precedence explicit.(ÙÖØ½ÿÿÿÿÿ8´ƒ°—î1J$63453931-e758-4cdd-b41e-fe87981dda87
+cpp:S864x"9Add parentheses to make the operator precedence explicit.(ÙÖØ½ÿÿÿÿÿ8´ƒ°—î1J$fc3b3592-198a-4c8e-8c4c-2a60f659024f
+šcpp:S109x"TAssign this magic number 255 to a well-named variable, and use the variable instead.(ÙÖØ½ÿÿÿÿÿ8´ƒ°—î1J$714a9311-a22b-408e-ae0e-902329e8ad2d
+šcpp:S109x"TAssign this magic number 127 to a well-named variable, and use the variable instead.(ÙÖØ½ÿÿÿÿÿ8´ƒ°—î1J$2c09048e-ed2c-4f76-adde-e2c4c6e252d3
+šcpp:S109x"TAssign this magic number 255 to a well-named variable, and use the variable instead.(ÙÖØ½ÿÿÿÿÿ8´ƒ°—î1J$2d73276b-fba4-4787-8a09-4942d285893a
+šcpp:S109x"TAssign this magic number 128 to a well-named variable, and use the variable instead.(ÙÖØ½ÿÿÿÿÿ8´ƒ°—î1J$66f450c8-f577-49e4-be90-617d48cf1f2d
+cpp:S100"IRename this function to match the regular expression: ^[a-z][a-zA-Z0-9]*$(Ò¥»úÿÿÿÿ8ğÀ³—î1J$db9e6779-2677-4784-b14e-25630e7a562d
+cpp:S994"IUnmodified variable "v" of type "unsigned int" should be const-qualified.(Ò¥»úÿÿÿÿ8ğÀ³—î1J$fed500f2-b0bc-4f02-aad5-41ffed6f309a
+cpp:S994‚"IUnmodified variable "t" of type "unsigned int" should be const-qualified.(ğ¥œòÿÿÿÿÿ8ğÀ³—î1J$03522e1f-d5a3-4c5d-ba7f-78b560b57af0
+ycpp:S874ƒ"7Do not apply ">>" bitwise operator to a signed operand.(ÌªÚ—8ğÀ³—î1J$31d16632-fd88-426a-8eff-878e972e2866
+cpp:S876ƒ"KRemove the unary minus operator or change the expression's underlying type.(ÌªÚ—8ğÀ³—î1J$9bbdfc6c-33d7-423f-a52b-bacaab0ae931
